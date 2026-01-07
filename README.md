@@ -3,8 +3,8 @@ clfc02d2 : AWS Lambda Amazon EventBridge # Monitoring # EC2 # CloudWatch # CLF-C
 
 
 ## Objective
-- Invoke AWS Lambda function to log the state of an Amazon EC2 instance.
-- Configure Amazon EventBridge rule to monitor the state of the EC2 instance by using a Lambda function.
+- Invoke AWS Lambda function to log the state of Amazon EC2 instance.
+- Configure Amazon EventBridge rule to monitor EC2 instance state using Lambda function.
 
 
 ## Monitor EC2 Instance State with AWS Lambda & Amazon EventBridge
