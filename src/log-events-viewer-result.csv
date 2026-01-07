@@ -1,0 +1,19 @@
+timestamp,message
+1765960436964,"INIT_START Runtime Version: python:3.14.v32	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:1ee4e6d61a50fbb29d03b87572cc627d0a92de84530be7b21838aaedd9675804
+"
+1765960437292,"START RequestId: 9eb52165-2b3c-43a5-a12d-da690c6a566b Version: $LATEST
+"
+1765960440776,"This is the Lambda function from Lab 1 - an EC2 instance has just started TERMINATED!
+"
+1765960440776,"AvailabilityZone : us-east-1a
+"
+1765960440776,"InstanceId : i-0492b986a8d86075e
+"
+1765960440776,"InstanceState : {'Code': 48, 'Name': 'terminated'}
+"
+1765960440776,"InstanceStatus {'Status': 'not-applicable'}
+"
+1765960440816,"END RequestId: 9eb52165-2b3c-43a5-a12d-da690c6a566b
+"
+1765960440816,"REPORT RequestId: 9eb52165-2b3c-43a5-a12d-da690c6a566b	Duration: 3520.26 ms	Billed Duration: 3845 ms	Memory Size: 128 MB	Max Memory Used: 98 MB	Init Duration: 324.47 ms	
+"
