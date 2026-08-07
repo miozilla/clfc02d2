@@ -7,8 +7,8 @@ clfc02d2 : AWS Lambda Amazon EventBridge # Monitoring # EC2 # CloudWatch # CLF-C
 - Configure Amazon EventBridge rule to monitor EC2 instance state using Lambda function.
 
 ## Similar Skills Set
-- GCP : Eventarc + Cloud Monitoring, Cloud Logging
-- Azure : Azure Event Grid + Azure Monitor
+- GCP : Eventarc + Cloud Monitoring, Cloud Logging + Cloud Function
+- Azure : Azure Event Grid + Azure Monitor + Azure Function
 
 
 ## Monitor EC2 Instance State with AWS Lambda & Amazon EventBridge
